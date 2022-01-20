@@ -20,7 +20,7 @@ class RailsMentor < Mentor
   
   def job
     
-    puts "#{@name}です。私は現役のRubyとRailsでWebアプリケーションを作ります。"
+    puts "#{@name}です。私はRubyとRailsでWebアプリケーションを作ります。"
   
   end
   
